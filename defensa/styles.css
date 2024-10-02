@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    padding: 10px;
+    display: grid;
+    grid-template-rows: 1fr 2fr 3fr 4fr 5fr 3fr;
+    gap: 10px;
+    text-align: center;
+}
+.caja1{
+    background-color: brown;
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.caja2{
+    background-color: rgb(42, 165, 155);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.caja3{
+    background-color: rgb(216, 169, 13);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.caja4{
+    background-color: rgb(230, 230, 230);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.subcaja1{
+    background-color: rgb(79, 187, 97);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.subcaja2{
+    background-color: rgb(207, 203, 203);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+    display: grid;
+    grid-template-rows: 1fr 1fr 2fr;
+}
+.subcaja_1{
+    background-color: rgb(102, 100, 197);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.subcaja_2{
+    background-color: rgb(163, 184, 44);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.subcaja_3{
+    background-color: rgb(138, 184, 181);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.caja5{
+    background-color: rgb(180, 171, 226);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.subcaja3{
+    background-color: rgb(125, 212, 164);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.subcaja4{
+    background-color: rgb(199, 36, 36);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+.subcaja_4{
+    background-color: rgb(4, 182, 57);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.subcaja_5{
+    background-color: rgb(49, 15, 241);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.caja6{
+    background-color: rgb(180, 171, 226);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.subcaja5{
+    background-color: rgb(9, 5, 228);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.subcaja6{
+    background-color: rgb(9, 5, 228);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.subcaja7{
+    background-color: rgb(9, 5, 228);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
+.subcaja8{
+    background-color: rgb(9, 5, 228);
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+}
